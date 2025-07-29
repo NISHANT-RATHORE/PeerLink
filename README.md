@@ -25,7 +25,6 @@ The key feature of PeerLink is that **files are never permanently stored on the 
 -   **Invite Code System:** Share files easily using a simple, auto-generated code.
 -   **Concurrent Downloads:** Multiple users can download the same file simultaneously from a single share session.
 -   **Drag & Drop:** Modern and convenient file selection.
--   **Session-Based:** The share link is only valid as long as the file sharing session is active on the server.
 
 ## ⚙️ How It Works - Architecture Deep Dive
 
